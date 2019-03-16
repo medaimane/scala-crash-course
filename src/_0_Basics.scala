@@ -1,7 +1,10 @@
-import scala.math._
+// Import libraries functions:
+import scala.math._ // _ to import all the library.
 
 object _0_Basics {
-  def main(args: Array[String]) {
+  def main(args: Array[String]) : Unit = {
+
+    println("Basics")
 
     // Hello World!
     // print on the screen
