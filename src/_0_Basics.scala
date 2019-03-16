@@ -1,10 +1,12 @@
-object Basics {
+import scala.math._
+
+object _0_Basics {
   def main(args: Array[String]) {
-    
-    // Hello World! 
+
+    // Hello World!
     // print on the screen
-    println("Hello From Scala World")
-    
+    println("Hello, Scala World!")
+
     // Comments :
     // This is one line comment.
     /**
@@ -13,11 +15,17 @@ object Basics {
 
     // Variables :
     // var variables are able to changed
-    var myAge = 27
+    var myAge = 26
+    myAge += 1
+
     // val variables are not able to changed
     val myName = "Med Aimane"
     val myCity = "Tetouan"
 
     println("My name's " + myName + ", I'm " + myAge + " and I live on " + myCity)
+
+    // Math library
+    println(abs(-8))
+    println(ceil(1.27))
   }
 }
