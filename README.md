@@ -1,7 +1,5 @@
 # Scala crash course
 
-## About Scala
-
 - Scala is the perfect choice to explore functional programming.
 - Scala runs on the JVM.
 - You can execute command directly on the scala shell.
@@ -11,9 +9,9 @@
 - Install JDK 1.8.x. and Homebrew.
 - Install Scala by the following command :
     brew update && brew install scala
-- Type ```sh scala``` on terminal to start and :q to quit.
+- Type ```scala``` on terminal to start and ```:q``` to quit.
 
-## Sammury
+## Summary
 
 - Basics
 
