@@ -10,10 +10,13 @@
 - Install Scala by the following command :
     brew update && brew install scala
 - Type ```scala``` on terminal to start and ```:q``` to quit.
+- Install Intellij Idea IDE and the Scala plugin,
+ for more details see 
+ [scala docs](https://docs.scala-lang.org/getting-started-intellij-track/getting-started-with-scala-in-intellij.html).
 
 ## Summary
 
-- Basics
+- Basics (Variables, Comments, Math library)
 
 ## Creators
 

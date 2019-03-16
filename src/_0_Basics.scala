@@ -25,7 +25,13 @@ object _0_Basics {
     println("My name's " + myName + ", I'm " + myAge + " and I live on " + myCity)
 
     // Math library
+    println("Math functions :")
     println(abs(-8))
     println(ceil(1.27))
+    println(round(3.2))
+    println(pow(2,2))
+    println(exp(2.27))
+    println("...")
+
   }
 }
