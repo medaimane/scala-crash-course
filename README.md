@@ -11,7 +11,7 @@
     brew update && brew install scala
 - Type ```scala``` on terminal to start and ```:q``` to quit.
 
-## Sammury
+## Summary
 
 - Basics
 
