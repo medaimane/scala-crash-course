@@ -4,7 +4,8 @@
 - Scala runs on the JVM.
 - You can execute command directly on the scala shell.
 
-## Setup Scala on MacOS
+## Instructions
+### Setup Scala on MacOS
 
 - Install JDK 1.8.x. and Homebrew.
 - Install Scala by the following command :
@@ -17,7 +18,7 @@
 ## Summary
 
 - Basics (Variables, Comments, Math library)
-- Conditions (Conditional and Logical operators, if else)
+- Conditions (Conditional and Logical operators, if else statements)
 
 ## Creators
 
