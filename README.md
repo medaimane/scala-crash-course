@@ -11,7 +11,7 @@
 - Install JDK 1.8.x. and Homebrew.
 - Install Scala by the following command :
     brew update && brew install scala
-- Type ```sh scala``` on terminal to start and :q to quit.
+- Type ```scala``` on terminal to start and ```:q``` to quit.
 
 ## Sammury
 
