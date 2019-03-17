@@ -18,7 +18,8 @@
 ## Summary
 
 - Basics (Variables, Comments, Math library)
-- Conditions (Conditional and Logical operators, if else statements)
+- Conditions in Scala (Conditional and Logical operators, if else statements)
+- Loops in Scala (while, do while and for Loops with some examples)
 
 ## Creators
 

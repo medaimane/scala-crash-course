@@ -1,6 +1,6 @@
 object _1_Conditions {
   def main(args: Array[String]): Unit = {
-    println("Conditions")
+    println("Conditions in Scala")
 
     /**
       * Conditional Operators: ==, !=, >, <, >= and <=.

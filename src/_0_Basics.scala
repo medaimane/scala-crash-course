@@ -3,7 +3,6 @@ import scala.math._ // _ to import all the library.
 
 object _0_Basics {
   def main(args: Array[String]) : Unit = {
-
     println("Basics")
 
     // Hello World!
