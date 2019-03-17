@@ -20,6 +20,7 @@
 - Basics (Variables, Comments, Math library)
 - Conditions in Scala (Conditional and Logical operators, if else statements)
 - Loops in Scala (while, do while and for Loops with some examples)
+- IO in Scala.
 
 ## Creators
 
