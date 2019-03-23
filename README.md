@@ -3,11 +3,12 @@
 - Scala is the perfect choice to explore functional programming.
 - Scala runs on the JVM.
 - You can execute command directly on the scala shell.
+- You can use any Java library with Scala.
 
 ## Instructions
 ### Setup Scala on MacOS
 
-- Install JDK 1.8.x. and Homebrew.
+- Install JDK 1.8.x. and [Homebrew](https://brew.sh/).
 - Install Scala by the following command :
     brew update && brew install scala
 - Type ```scala``` on terminal to start and ```:q``` to quit.
@@ -21,6 +22,7 @@
 - Conditions in Scala (Conditional and Logical operators, if else statements)
 - Loops in Scala (while, do while and for Loops with some examples)
 - IO in Scala.
+- ... 
 
 ## Creators
 
